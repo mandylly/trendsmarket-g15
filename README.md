@@ -11,6 +11,19 @@ Recommender systems are crucial in establishing a strong relationship with a con
 https://grouplens.org/datasets/movielens/
 
 # How It Works
+## Personalize
+1. Initiate the process by navigating to the Amazon Personalize console and establish a new dataset group.
+
+2. The dataset group consists of three distinct domains: E-commerce, Video on Demand, and Custom. Make a selection based on the characteristics of your dataset.
+
+3. Upon successful creation of a dataset group, proceed to create individual datasets within the group. This includes the mandatory user interaction dataset, as well as optional item and user datasets.
+
+4. Move forward to create a solution within the dataset group, carefully selecting an appropriate recipe. 
+
+5. A recipe serves as the foundational framework for the machine learning model, streamlining the complexities involved in model construction and training to facilitate the generation of personalized recommendations.
+
+6. Subsequently, upon the creation of a recipe, input the relevant item and user identifiers to obtain personalized recommendations, tailoring the output to the specific characteristics of the dataset and recommendation use case.
+
 
 # Use Cases
 ## Tailored News Feed: 
