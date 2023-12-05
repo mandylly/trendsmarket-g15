@@ -12,7 +12,7 @@ https://grouplens.org/datasets/movielens/
 
 # How It Works
 ### Use Data Wrangler
-Here is a link for the guide: [datawrangler_guide.ipynb](https://github.com/mandylly/trendsmarket-g15/blob/1b33453412d3ebbe4adddd62e2fe624903eb18c7/datawrangler_guide.ipynb)
+Here is a link for the guide: [datawrangler_guide](https://github.com/mandylly/trendsmarket-g15/blob/1b33453412d3ebbe4adddd62e2fe624903eb18c7/datawrangler_guide.ipynb)
 ### Use Personalize
 1. Initiate the process by navigating to the Amazon Personalize console and establish a new dataset group.
 
