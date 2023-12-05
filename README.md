@@ -12,7 +12,7 @@ https://grouplens.org/datasets/movielens/
 
 # How It Works
 ### Use Data Wrangler
-Here is a link for the guide: [datawrangler_guide.ipynb)](https://github.com/mandylly/trendsmarket-g15/blob/1b33453412d3ebbe4adddd62e2fe624903eb18c7/datawrangler_guide.ipynb)
+Here is a link for the guide: [datawrangler_guide.ipynb](https://github.com/mandylly/trendsmarket-g15/blob/1b33453412d3ebbe4adddd62e2fe624903eb18c7/datawrangler_guide.ipynb)
 ### Use Personalize
 1. Initiate the process by navigating to the Amazon Personalize console and establish a new dataset group.
 
@@ -38,6 +38,9 @@ A travel site can use Amazon Personalize to offer hotel, flight, and excursion r
 An e-learning platform can leverage Amazon Personalize to suggest courses and materials tailored to the learner's progress and interests, improving learning outcomes.
 
 # Other Resources
-
+[Flyer](https://github.com/mandylly/trendsmarket-g15/blob/0ca67b06d24f14d756dbf4ac5d1dafc2e55e3d7b/Trends%20-%20Fall'23%20-%20G15.pdf)
+[Project Video]()
+[Slides]()
 
 # Other References
+[Trending-Now-Recipe](https://docs.aws.amazon.com/personalize/latest/dg/native-recipe-trending-now.html)
