@@ -11,9 +11,9 @@ Recommender systems are crucial in establishing a strong relationship with a con
 https://grouplens.org/datasets/movielens/
 
 # How It Works
-## Use Data Wrangler
-
-## Use Personalize
+### Use Data Wrangler
+Here is a link for the guide: datawrangler_guide.ipynb
+### Use Personalize
 1. Initiate the process by navigating to the Amazon Personalize console and establish a new dataset group.
 
 2. The dataset group consists of three distinct domains: E-commerce, Video on Demand, and Custom. Make a selection based on the characteristics of your dataset.
