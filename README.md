@@ -39,7 +39,9 @@ An e-learning platform can leverage Amazon Personalize to suggest courses and ma
 
 # Other Resources
 [Flyer](https://github.com/mandylly/trendsmarket-g15/blob/0ca67b06d24f14d756dbf4ac5d1dafc2e55e3d7b/Trends%20-%20Fall'23%20-%20G15.pdf)
+
 [Project Video]()
+
 [Slides]()
 
 # Other References
