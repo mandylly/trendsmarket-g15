@@ -89,4 +89,9 @@ https://docs.aws.amazon.com/personalize/latest/dg/creating-recommenders.html
 
 https://aws.amazon.com/blogs/architecture/architecting-near-real-time-personalized-recommendations-with-amazon-personalize/
 
+https://github.com/aws-samples/amazon-personalize-samples/blob/master/next_steps/core_use_cases/trending_now/
+
+https://github.com/aws-samples/amazon-personalize-samples/tree/master/next_steps/core_use_cases/personalized_ranking
+
+
 
