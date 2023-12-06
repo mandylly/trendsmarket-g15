@@ -29,7 +29,8 @@ Here is a link for the guide: [datawrangler_guide](https://github.com/mandylly/t
 6. Subsequently, upon the creation of a recipe, input the relevant item and user identifiers to obtain personalized recommendations, tailoring the output to the specific characteristics of the dataset and recommendation use case.
 
 
-![Alt text]([image link](https://d1.awsstatic.com/products/personalize/product-page-diagram_Amazon-Personalize1.4249579be4fd5c883914489dcbb0c27ba59a2961.png))
+<img width="1255" alt="image" src="https://github.com/mandylly/trendsmarket-g15/assets/152313718/e9b668e5-3f6f-4c98-a691-a27227b99608">
+
 
 
 # Use Cases
