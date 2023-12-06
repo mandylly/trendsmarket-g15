@@ -77,4 +77,8 @@ https://aws.amazon.com/sagemaker/data-wrangler/
 
 https://www.youtube.com/watch?v=3gJmhoLaLIo&list=PLLNv7WFv3KhiulXWUjPy-RgPGjSi338gL&index=2
 
+https://docs.aws.amazon.com/personalize/latest/dg/creating-recommenders.html
+
+https://aws.amazon.com/blogs/architecture/architecting-near-real-time-personalized-recommendations-with-amazon-personalize/
+
 
