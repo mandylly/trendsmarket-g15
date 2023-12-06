@@ -10,7 +10,7 @@ Recommender systems are crucial in establishing a strong relationship with a con
 ## Quick Links
 [Flyer](https://github.com/mandylly/trendsmarket-g15/blob/0ca67b06d24f14d756dbf4ac5d1dafc2e55e3d7b/Trends%20-%20Fall'23%20-%20G15.pdf)
 
-[Project Video](https://www.youtube.com/watch?v=UFEE8eabSOw)
+[Project Video](https://www.youtube.com/watch?v=nH8Fcw-tWBU)
 
 [Slides](https://github.com/mandylly/trendsmarket-g15/blob/7a6222418a109f7aeec64f8a39dcdbe342aa768c/Slides.pdf)
 
