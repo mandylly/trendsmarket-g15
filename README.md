@@ -7,6 +7,14 @@ The project aims at unlocking the synergy of Amazon Personalize and Amazon SageM
 # Business Problem
 Recommender systems are crucial in establishing a strong relationship with a consumer to the subscription service or e-commerce platform that they opt for. We see strong recommender systems being in action when we shop online (Walmart), watch movies (Netflix, Hulu), music streaming platforms (Spotify) etc. While these corporate giants can afford to have a data science team that will help them with the data pre-processing and feature engineering steps before the recommender system steps in, small business owners still struggle to use the same. This is where Amazon SageMaker Data Wrangler and Personalize can empower small businesses with limited capacity and resources to develop recommender systems for their businesses without needing the skills of a seasoned data scientist.
 
+# Quick Links
+[Flyer](https://github.com/mandylly/trendsmarket-g15/blob/0ca67b06d24f14d756dbf4ac5d1dafc2e55e3d7b/Trends%20-%20Fall'23%20-%20G15.pdf)
+
+[Project Video]()
+
+[Slides]()
+
+
 # Dataset Resource
 Movie: 
 https://grouplens.org/datasets/movielens/
@@ -60,12 +68,13 @@ A travel site can use Amazon Personalize to offer hotel, flight, and excursion r
 ### Personalized Learning Paths: 
 An e-learning platform can leverage Amazon Personalize to suggest courses and materials tailored to the learner's progress and interests, improving learning outcomes.
 
-# Other Resources
-[Flyer](https://github.com/mandylly/trendsmarket-g15/blob/0ca67b06d24f14d756dbf4ac5d1dafc2e55e3d7b/Trends%20-%20Fall'23%20-%20G15.pdf)
-
-[Project Video]()
-
-[Slides]()
-
-# Other References
+# Bibliography and Credits
 [Trending-Now-Recipe](https://docs.aws.amazon.com/personalize/latest/dg/native-recipe-trending-now.html)
+
+https://aws.amazon.com/personalize/
+
+https://aws.amazon.com/sagemaker/data-wrangler/
+
+https://www.youtube.com/watch?v=3gJmhoLaLIo&list=PLLNv7WFv3KhiulXWUjPy-RgPGjSi338gL&index=2
+
+
