@@ -8,11 +8,14 @@ The project aims at unlocking the synergy of Amazon Personalize and Amazon SageM
 Recommender systems are crucial in establishing a strong relationship with a consumer to the subscription service or e-commerce platform that they opt for. We see strong recommender systems being in action when we shop online (Walmart), watch movies (Netflix, Hulu), music streaming platforms (Spotify) etc. While these corporate giants can afford to have a data science team that will help them with the data pre-processing and feature engineering steps before the recommender system steps in, small business owners still struggle to use the same. This is where Amazon SageMaker Data Wrangler and Personalize can empower small businesses with limited capacity and resources to develop recommender systems for their businesses without needing the skills of a seasoned data scientist.
 
 # Dataset Resource
-Movie: https://grouplens.org/datasets/movielens/
+Movie: 
+https://grouplens.org/datasets/movielens/
 
-Books Recommendation: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Ratings.csv
+Books Recommendation: 
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Ratings.csv
 
-Beer: https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate/data
+Beer: 
+https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate/data
 
 # How It Works
 ### Use Data Wrangler
