@@ -9,12 +9,27 @@ Recommender systems are crucial in establishing a strong relationship with a con
 
 # Dataset Resource
 Movie: https://grouplens.org/datasets/movielens/
+
 Books Recommendation: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Ratings.csv
+
 Beer: https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate/data
 
 # How It Works
 ### Use Data Wrangler
+1. Choose the dataset group that you create
+
+2. Choose the data set you are going to import
+
+3. Choose data wrangler as import method
+
+4. Import data to data wrangler
+
+5. Start transform your data by “Add Step”
+
+6. Export the data to S3 bucket
+
 Here is a link for the guide: [datawrangler_guide](https://github.com/mandylly/trendsmarket-g15/blob/1b33453412d3ebbe4adddd62e2fe624903eb18c7/datawrangler_guide.ipynb)
+
 <img width="1255" alt="image" src="https://github.com/mandylly/trendsmarket-g15/assets/152313718/e9b668e5-3f6f-4c98-a691-a27227b99608">
 
 ### Use Personalize
