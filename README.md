@@ -12,7 +12,7 @@ Recommender systems are crucial in establishing a strong relationship with a con
 
 [Project Video]()
 
-[Slides]()
+[Slides](https://github.com/mandylly/trendsmarket-g15/blob/e77451a683732b81a1865a9fcafa4581a9fdceac/Slides.pdf)
 
 
 # Dataset Resource
@@ -25,7 +25,15 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Rati
 Beer: 
 https://www.kaggle.com/datasets/thedevastator/1-5-million-beer-reviews-from-beer-advocate/data
 
-# How It Works
+# Getting Started
+To utilize AWS SageMaker Data Wrangler and AWS Personalize for your data analytics and personalization projects, please follow the setup instructions below.
+
+## Prerequisites
+An AWS account with access to SageMaker and Personalize.
+Basic understanding of data processing and machine learning concepts.
+Familiarity with Jupyter notebooks.
+
+## Installation and Setup
 ### Use Data Wrangler
 1. Choose the dataset group that you create
 
