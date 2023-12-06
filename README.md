@@ -27,6 +27,8 @@ Here is a link for the guide: [datawrangler_guide](https://github.com/mandylly/t
 5. A recipe serves as the foundational framework for the machine learning model, streamlining the complexities involved in model construction and training to facilitate the generation of personalized recommendations.
 
 6. Subsequently, upon the creation of a recipe, input the relevant item and user identifiers to obtain personalized recommendations, tailoring the output to the specific characteristics of the dataset and recommendation use case.
+   
+https://d1.awsstatic.com/products/personalize/product-page-diagram_Amazon-Personalize1.4249579be4fd5c883914489dcbb0c27ba59a2961.png![image](https://github.com/mandylly/trendsmarket-g15/assets/152313718/37379f48-8dba-4860-924f-74565f9d7168)
 
 
 # Use Cases
